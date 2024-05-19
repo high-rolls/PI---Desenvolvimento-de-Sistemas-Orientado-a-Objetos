@@ -112,12 +112,6 @@ O trabalho proposto projeta um Diagrama de Caso de Uso para um Sistema de Gestã
 
 ## Interfaces do Projeto Sistema de Gestão Escolar
 ## Protótipos das Interfaces
-- **Pessoa Física**
-- **Pessoa Jurídica**
-- **Professores**
-- **Fornecedores**
-- **Alunos**
-
 
 Links das interfaces do projeto:
 
